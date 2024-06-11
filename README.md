@@ -1,4 +1,4 @@
-# Research Analyst Assistant
+# Research Specialist & Data Analyst
 
 ### Education
 Business Analytics, M.S.
