@@ -7,11 +7,11 @@ Intellignece Analysis, A.A.
 Information Management, A.A.
 
 ### Certifications
-Agile & Scrum Basics, 2024
-Project Management Basics, 2023
-Critical Thinking & Structured Analysis, 2021
-Publicly Available Information Toolkit, 2020
-Leadership & Management Course, 2018 & 2021
+Agile & Scrum Basics, 2024 | 
+Project Management Basics, 2023 |
+Critical Thinking & Structured Analysis, 2021 |
+Publicly Available Information Toolkit, 2020 |
+Leadership & Management Course, 2018 & 2021 |
 Adobe Forms Developer, 2016
 
 ### Work Experience
