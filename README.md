@@ -1,9 +1,12 @@
+![image](https://github.com/KatHendo/portfolio/assets/99369457/ab7ced09-935e-4169-ae37-79aa7b1a861d)
+
+
 # Research Specialist & Data Analyst
 
 ### Education
 - M.S. Business Analytics
 - B.A. Intelligence Studies
-- A.A. Intellignece Analysis
+- A.A. Intelligence Analysis
 - A.A. Information Resource Management
 
 ### Certifications
@@ -20,7 +23,7 @@ Office Administrator, Kemah Boardwalk - Landry's Inc.
 
 Projects:
 
-- Facilty Movement Plan 2024
+- Facility Movement Plan 2024
 - Amusement Park Market Survey 2023 & 2024
 - Austin Bike Sharing Program 2023
 -   [Publication] (https://public.tableau.com/app/profile/kaitlyn1709/vizzes)
@@ -33,7 +36,7 @@ Duties:
 - Conduct leadership-driven market analysis for company-wide price increases
 - Oversee enterprise claims input and manage information processing systems
 - Develop financial and data-driven visualizations for order management insights
-- Monitor section specific training requirements and safety compliance notifications
+- Monitor section-specific training requirements and safety compliance notifications
 
 Intelligence Researcher & Analyst, USAF
 2019 - 2022
