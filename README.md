@@ -1,5 +1,4 @@
-![image](https://github.com/KatHendo/portfolio/assets/99369457/ab7ced09-935e-4169-ae37-79aa7b1a861d)
-
+![Image Alt text](/images/img.jpg
 
 # Research Specialist & Data Analyst
 
