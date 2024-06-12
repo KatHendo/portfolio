@@ -19,9 +19,13 @@ Office Administrator, Kemah Boardwalk - Landry's Inc.
 2022 - Current
 
 Projects:
-- Amusement Park Market Survey 2023 & 2024
+
 - Facilty Movement Plan 2024
-- Chick-Fil-A Partnership 2024
+- Amusement Park Market Survey 2023 & 2024
+- Austin Bike Sharing Program 2023
+-   [Publication] (https://public.tableau.com/app/profile/kaitlyn1709/vizzes)
+- New York Noise 2023
+-   [Publication] (https://public.tableau.com/app/profile/kaitlyn1709/vizzes)
 
 Duties:
 - Collaborate with leadership on commercial projects and employee retention efforts
