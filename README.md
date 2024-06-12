@@ -26,7 +26,7 @@ Projects:
 -   [Publication] (https://public.tableau.com/app/profile/kaitlyn1709/vizzes)
 - New York Noise 2023
 -   [Publication] (https://public.tableau.com/app/profile/kaitlyn1709/vizzes)
--   [Publication] (datascienceportfol.io/KatiePuckitt)
+-   [Publication] (https://www.datascienceportfol.io/KatiePuckitt)
 
 Duties:
 - Collaborate with leadership on commercial projects and employee retention efforts
