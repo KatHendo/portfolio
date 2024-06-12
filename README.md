@@ -4,7 +4,7 @@
 - M.S. Business Analytics
 - B.A. Intelligence Studies
 - A.A. Intellignece Analysis
-- A.A. Information Management
+- A.A. Information Resource Management
 
 ### Certifications
 Agile & Scrum Basics, 2024 | 
