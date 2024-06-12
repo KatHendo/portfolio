@@ -1,10 +1,10 @@
 # Research Specialist & Data Analyst
 
 ### Education
-Business Analytics, M.S.
-Intelligence Studies, B.A.
-Intellignece Analysis, A.A.
-Information Management, A.A.
+- M.S. Business Analytics
+- B.A. Intelligence Studies
+- A.A. Intellignece Analysis
+- A.A. Information Management
 
 ### Certifications
 Agile & Scrum Basics, 2024 | 
