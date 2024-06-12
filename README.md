@@ -1,4 +1,4 @@
-![Image Alt text](/images/img.jpg
+![headshot](assets/BrownSweaterLongHair.jpeg)
 
 # Research Specialist & Data Analyst
 
