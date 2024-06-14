@@ -1,4 +1,3 @@
-![headshot](assets/BrownSweaterLongHair.jpeg)
 
 # Research Specialist & Data Analyst
 
